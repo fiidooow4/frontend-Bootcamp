@@ -1,4 +1,3 @@
-  
 breakfast: Overnight Eggnog French Toast Casserole
 lunch:     Chicken salad
 Dinner:    slow-cooked casserole
